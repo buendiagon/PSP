@@ -1,4 +1,4 @@
 package com.example.bienestaraprendiz.psp.adaptadores;
 
-public class AdapterProyectos {
+public class AdapterProyectos extends  {
 }
